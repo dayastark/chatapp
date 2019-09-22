@@ -1,0 +1,28 @@
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\EntityFramework.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csprojResolveAssemblyReference.cache
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csprojResolveAssemblyReference.cache
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+E:\priyanka\chatapp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+E:\priyanka\chatapp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+E:\priyanka\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csprojAssemblyReference.cache
+E:\priyanka\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CoreCompileInputs.cache
+E:\priyanka\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CopyComplete
+E:\priyanka\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+E:\priyanka\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+D:\daya\chatapp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+D:\daya\chatapp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+D:\daya\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CoreCompileInputs.cache
+D:\daya\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CopyComplete
+D:\daya\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+D:\daya\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb

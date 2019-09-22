@@ -1,0 +1,2 @@
+E:\priyanka\chatapp\ChatApp.Domain\obj\Release\ChatApp.Domain.csprojAssemblyReference.cache
+E:\priyanka\chatapp\ChatApp.Domain\obj\Release\ChatApp.Domain.csproj.CoreCompileInputs.cache
