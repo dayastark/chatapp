@@ -13,7 +13,7 @@ Here, I haved developed a real-time chat application using SignalR, Bootstrap, a
 
 
 ## Architecutre:
-  - This project having 2 project with one is domain and another is web application. Using Three Tire architecture..
+  - This solution having 2 project with one is domain and another is web application. Using Three Tire architecture..
   - Dayastark Chat app project having core functionlity with repository pattern.
   - Make seperate Dependency with concern for make each to understand.
 
